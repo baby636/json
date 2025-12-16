@@ -24,6 +24,6 @@ pymdown-extensions>=7.1
 PyYAML>=5.3.1
 regex>=2020.5.14
 six>=1.15.0
-tornado>=6.0.4
+tornado>=6.5.3
 tqdm>=4.46.0
 zipp>=3.1.0
